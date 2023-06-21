@@ -1,8 +1,6 @@
 ### Tratamento de Sinais
 
- <img align="center" alt="=C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
- <img align="center" alt="=C" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
-<img align="center" alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"><br>
+<img align="center" alt="=C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"><img align="center" alt="=C" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"><img align="center" alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"><br>
  
 <br>
 
